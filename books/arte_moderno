@@ -1,0 +1,1950 @@
+{
+  "Impresionismo": {
+    "Gustave Caillebotte": {
+      "Nacimiento": {
+        "Año": "1984",
+        "Lugar": "París, Francia"
+      },
+      "Muerte": {
+        "Año": "1894",
+        "Lugar": "Petit-Gennevilliers"
+      }
+    },
+    "Edgar Degas": {
+      "Nacimiento": {
+        "Año": "1834",
+        "Lugar": "París, Francia"
+      },
+      "Muerte": {
+        "Año": "1917",
+        "Lugar": "París"
+      }
+    },
+    "Claude Monet": {
+      "Nacimiento": {
+        "Año": "1840",
+        "Lugar": "París, Francia"
+      },
+      "Muerte": {
+        "Año": "1926",
+        "Lugar": "Giverny"
+      }
+    },
+    "Mary Cassatt": {
+      "Nacimiento": {
+        "Año": "1844",
+        "Lugar": "Allegheny City"
+      },
+      "Muerte": {
+        "Año": "1926",
+        "Lugar": "Château de Beaufresne, Francia"
+      }
+    },
+    "Pierre-Auguste Renoir": {
+      "Nacimiento": {
+        "Año": "1841",
+        "Lugar": "Limoges, Francia"
+      },
+      "Muerte": {
+        "Año": "1919",
+        "Lugar": "Cagnes-sur-Mer"
+      }
+    },
+    "Alfred Sisley": {
+      "Nacimiento": {
+        "Año": "1839",
+        "Lugar": "París, Francia"
+      },
+      "Muerte": {
+        "Año": "1899",
+        "Lugar": "Moret-sur-Loing"
+      }
+    },
+    "Camille Pissarro": {
+      "Nacimiento": {
+        "Año": "1830",
+        "Lugar": "Charlotte-Amalie, Antillas danesas"
+      },
+      "Muerte": {
+        "Año": "1903",
+        "Lugar": "París, Francia"
+      }
+    },
+    "Auguste Rodin": {
+      "Nacimiento": {
+        "Año": "1840",
+        "Lugar": "París, Francia"
+      },
+      "Muerte": {
+        "Año": "1917",
+        "Lugar": "Meudon"
+      }
+    },
+    "Georges Seurat": {
+      "Nacimiento": {
+        "Año": "1859",
+        "Lugar": "París, Francia"
+      },
+      "Muerte": {
+        "Año": "1891",
+        "Lugar": "París"
+      }
+    },
+    "Paul Cézanne": {
+      "Nacimiento": {
+        "Año": "1839",
+        "Lugar": "Aiex-en-Provence, Francia"
+      },
+      "Muerte": {
+        "Año": "1906",
+        "Lugar": "Aiex-en-Provence"
+      }
+    },
+    "Vincent van Gogh": {
+      "Nacimiento": {
+        "Año": "1853",
+        "Lugar": "Groot-Zundert, Países Bajos"
+      },
+      "Muerte": {
+        "Año": "1890",
+        "Lugar": "Auvers-sur-Oise, Francia"
+      }
+    },
+    "Paul Gauguin": {
+      "Nacimiento": {
+        "Año": "1848",
+        "Lugar": "París, Francia"
+      },
+      "Muerte": {
+        "Año": "1903",
+        "Lugar": "Atuona, Hiva Oa, islas Marquesas"
+      }
+    },
+    "Henri Rousseau": {
+      "Nacimiento": {
+        "Año": "1844",
+        "Lugar": "Laval, Francia"
+      },
+      "Muerte": {
+        "Año": "1910",
+        "Lugar": "París"
+      }
+    },
+    "Henri de Toulouse-Lautrec": {
+      "Nacimiento": {
+        "Año": "1864",
+        "Lugar": "Albi, Francia"
+      },
+      "Muerte": {
+        "Año": "1901",
+        "Lugar": "Château de Malromé"
+      }
+    },
+    "Paul Signac": {
+      "Nacimiento": {
+        "Año": "1863",
+        "Lugar": "París, Francia"
+      },
+      "Muerte": {
+        "Año": "1935",
+        "Lugar": "París"
+      }
+    },
+    "André Derain": {
+      "Nacimiento": {
+        "Año": "1880",
+        "Lugar": "Chatou, Francia"
+      },
+      "Muerte": {
+        "Año": "1954",
+        "Lugar": "cerca de Garches"
+      }
+    },
+    "Henri Matisse": {
+      "Nacimiento": {
+        "Año": "1869",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1954",
+        "Lugar": ""
+      }
+    }
+  },
+  "Simbolismo": {
+    "Edward Burne-Jones": {
+      "Nacimiento": {
+        "Año": "1833",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1898",
+        "Lugar": ""
+      }
+    },
+    "Odilon Redon": {
+      "Nacimiento": {
+        "Año": "1840",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1916",
+        "Lugar": ""
+      }
+    },
+    "Franz von Stuck": {
+      "Nacimiento": {
+        "Año": "1863",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1928",
+        "Lugar": ""
+      }
+    },
+    "Edvard Munch": {
+      "Nacimiento": {
+        "Año": "1863",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1944",
+        "Lugar": ""
+      }
+    },
+    "James Ensor": {
+      "Nacimiento": {
+        "Año": "1860",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1949",
+        "Lugar": ""
+      }
+    },
+    "Ferdinand Hodler": {
+      "Nacimiento": {
+        "Año": "1853",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1918",
+        "Lugar": ""
+      }
+    },
+    "Pablo Picasso": {
+      "Nacimiento": {
+        "Año": "1881",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1973",
+        "Lugar": ""
+      }
+    },
+    "Gustav Klimt": {
+      "Nacimiento": {
+        "Año": "1862",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1918",
+        "Lugar": ""
+      }
+    },
+    "Egon Schiele": {
+      "Nacimiento": {
+        "Año": "1890",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1918",
+        "Lugar": ""
+      }
+    }
+  },
+  "Cubismo": {
+    "Pablo Picasso": {
+      "Nacimiento": {
+        "Año": "1881",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1973",
+        "Lugar": ""
+      }
+    },
+    "Georges Braque": {
+      "Nacimiento": {
+        "Año": "1882",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1963",
+        "Lugar": ""
+      }
+    },
+    "Robert Delaunay": {
+      "Nacimiento": {
+        "Año": "1885",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1941",
+        "Lugar": ""
+      }
+    },
+    "Marc Chagall": {
+      "Nacimiento": {
+        "Año": "1887",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1985",
+        "Lugar": ""
+      }
+    },
+    "Albert Gleizes": {
+      "Nacimiento": {
+        "Año": "1881",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1953",
+        "Lugar": ""
+      }
+    },
+    "Fernand Léger": {
+      "Nacimiento": {
+        "Año": "1881",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1955",
+        "Lugar": ""
+      }
+    },
+    "Jean Metzinger": {
+      "Nacimiento": {
+        "Año": "1883",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": "1956"
+      }
+    },
+    "Juan Gris": {
+      "Nacimiento": {
+        "Año": "1887",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1927",
+        "Lugar": ""
+      }
+    }
+  },
+  "Expresionismo": {
+    "Max Pechstein": {
+      "Nacimiento": {
+        "Año": "1881",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1955",
+        "Lugar": ""
+      }
+    },
+    "Alexej von Jawlensky": {
+      "Nacimiento": {
+        "Año": "1864",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1941",
+        "Lugar": ""
+      }
+    },
+    "Erich Heckel": {
+      "Nacimiento": {
+        "Año": "1883",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1970",
+        "Lugar": ""
+      }
+    },
+    "Ernst Ludwig Kirchner": {
+      "Nacimiento": {
+        "Año": "1880",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1938",
+        "Lugar": ""
+      }
+    },
+    "Oskar Kokoschka": {
+      "Nacimiento": {
+        "Año": "1886",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1980",
+        "Lugar": ""
+      }
+    },
+    "Wassily Kandinsky": {
+      "Nacimiento": {
+        "Año": "1866",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1944",
+        "Lugar": ""
+      }
+    },
+    "Franz Marc": {
+      "Nacimiento": {
+        "Año": "1880",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1916",
+        "Lugar": ""
+      }
+    },
+    "Ludwig Meidner": {
+      "Nacimiento": {
+        "Año": "1884",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1966",
+        "Lugar": ""
+      }
+    },
+    "August Macke": {
+      "Nacimiento": {
+        "Año": "1887",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1914",
+        "Lugar": ""
+      }
+    },
+    "Emil Nolde": {
+      "Nacimiento": {
+        "Año": "1867",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1956",
+        "Lugar": ""
+      }
+    },
+    "Wilhelm Lehmbruck": {
+      "Nacimiento": {
+        "Año": "1880",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1919",
+        "Lugar": ""
+      }
+    },
+    "Amedeo Modigliani": {
+      "Nacimiento": {
+        "Año": "1884",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1920",
+        "Lugar": ""
+      }
+    },
+    "George Grosz": {
+      "Nacimiento": {
+        "Año": "1893",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1959",
+        "Lugar": ""
+      }
+    },
+    "Otto Dix": {
+      "Nacimiento": {
+        "Año": "1891",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1969",
+        "Lugar": ""
+      }
+    },
+    "Chaïm Soutine": {
+      "Nacimiento": {
+        "Año": "1893",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1943",
+        "Lugar": ""
+      }
+    },
+    "Lyonel Feininger": {
+      "Nacimiento": {
+        "Año": "1871",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1956",
+        "Lugar": ""
+      }
+    }
+  },
+  "Futurismo": {
+    "Umberto Boccioni": {
+      "Nacimiento": {
+        "Año": "1882",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1916",
+        "Lugar": ""
+      }
+    },
+    "Gino Severini": {
+      "Nacimiento": {
+        "Año": "1883",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1966",
+        "Lugar": ""
+      }
+    },
+    "Giacomo Balla": {
+      "Nacimiento": {
+        "Año": "1871",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1958",
+        "Lugar": ""
+      }
+    },
+    "Carlo Carrà": {
+      "Nacimiento": {
+        "Año": "1881",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1966",
+        "Lugar": ""
+      }
+    },
+    "Filippo Tommaso Marinetti": {
+      "Nacimiento": {
+        "Año": "1876",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1944",
+        "Lugar": ""
+      }
+    }
+  },
+  "Arte Abstracto": {
+    "Kazimir Malevich": {
+      "Nacimiento": {
+        "Año": "1878",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1935",
+        "Lugar": ""
+      }
+    },
+    "Alexander Rodchenko": {
+      "Nacimiento": {
+        "Año": "1891",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1956",
+        "Lugar": ""
+      }
+    },
+    "El Lissitzky": {
+      "Nacimiento": {
+        "Año": "1890",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1941",
+        "Lugar": ""
+      }
+    },
+    "László Moholy-Nagy": {
+      "Nacimiento": {
+        "Año": "1895",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1946",
+        "Lugar": ""
+      }
+    },
+    "Wassily Kandinsky": {
+      "Nacimiento": {
+        "Año": "1866",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1944",
+        "Lugar": ""
+      }
+    },
+    "Theo van Doesburg": {
+      "Nacimiento": {
+        "Año": "1883",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1931",
+        "Lugar": ""
+      }
+    },
+    "Constantin Brancusi": {
+      "Nacimiento": {
+        "Año": "1876",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1957",
+        "Lugar": ""
+      }
+    },
+    "Paul Klee": {
+      "Nacimiento": {
+        "Año": "1879",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1940",
+        "Lugar": ""
+      }
+    },
+    "Piet Mondrian": {
+      "Nacimiento": {
+        "Año": "1872",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1944",
+        "Lugar": ""
+      }
+    }
+  },
+  "Dadaismo": {
+    "Marcel Duchamp": {
+      "Nacimiento": {
+        "Año": "1887",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1968",
+        "Lugar": ""
+      }
+    },
+    "Francis Picabia": {
+      "Nacimiento": {
+        "Año": "1879",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1953",
+        "Lugar": ""
+      }
+    },
+    "Raoul Hausmann": {
+      "Nacimiento": {
+        "Año": "1886",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1971",
+        "Lugar": ""
+      }
+    },
+    "Hannah Höch": {
+      "Nacimiento": {
+        "Año": "1889",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1978",
+        "Lugar": ""
+      }
+    },
+    "Kurt Schwitters": {
+      "Nacimiento": {
+        "Año": "1887",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1948",
+        "Lugar": ""
+      }
+    },
+    "Man Ray": {
+      "Nacimiento": {
+        "Año": "1890",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1976",
+        "Lugar": ""
+      }
+    }
+  },
+  "Realismo": {
+    "Tamara de Lempicka": {
+      "Nacimiento": {
+        "Año": "1898",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1980",
+        "Lugar": ""
+      }
+    },
+    "Georgia O’Keeffe": {
+      "Nacimiento": {
+        "Año": "1887",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1986",
+        "Lugar": ""
+      }
+    },
+    "Max Beckmann": {
+      "Nacimiento": {
+        "Año": "1884",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1950",
+        "Lugar": ""
+      }
+    },
+    "Christian Schad": {
+      "Nacimiento": {
+        "Año": "1894",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1982",
+        "Lugar": ""
+      }
+    },
+    "Grant Wood": {
+      "Nacimiento": {
+        "Año": "1891",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1942",
+        "Lugar": ""
+      }
+    },
+    "Diego Rivera": {
+      "Nacimiento": {
+        "Año": "1886",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1957",
+        "Lugar": ""
+      }
+    },
+    "Edward Hopper": {
+      "Nacimiento": {
+        "Año": "1882",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1967",
+        "Lugar": ""
+      }
+    },
+    "Balthus": {
+      "Nacimiento": {
+        "Año": "1908",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "2001",
+        "Lugar": ""
+      }
+    },
+    "Charles Sheeler": {
+      "Nacimiento": {
+        "Año": "1883",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1965",
+        "Lugar": ""
+      }
+    },
+    "Felix Nussbaum": {
+      "Nacimiento": {
+        "Año": "1904",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1944",
+        "Lugar": ""
+      }
+    }
+  },
+  "Surrealismo": {
+    "Giorgio de Chirico": {
+      "Nacimiento": {
+        "Año": "1888",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1978",
+        "Lugar": ""
+      }
+    },
+    "Max Ernst": {
+      "Nacimiento": {
+        "Año": "1891",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1976",
+        "Lugar": ""
+      }
+    },
+    "Man Ray": {
+      "Nacimiento": {
+        "Año": "1890",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "1976",
+        "Lugar": ""
+      }
+    },
+    "Joan Miró": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Hans Bellmer": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "René Magritte": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Hans Arp": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Pablo Picasso": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Salvador Dalí": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Richard Oelze": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Yves Tanguy": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Paul Delvaux": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Matta": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Wifredo Lam": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Frida Kahlo": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Jean Fautrier": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Jean Dubuffet": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Alexander Calder": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Henri Matisse": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Alberto Giacometti": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Henry Moore": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Wols": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    }
+  },
+  "Expresionismo Abstracto": {
+    "Barnett Newman": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Clyfford Still": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "David Smith": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Jackson Pollock": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Willem de Kooning": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Sam Francis": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Ad Reinhardt": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Richard Diebenkorn": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Robert Motherwell": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Philip Guston": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Hans Hartung": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Joan Mitchell": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Adolph Gottlieb": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Franz Kline": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Mark Rothko": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Asger Jorn": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Hans Hofmann": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Yves Klein": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Lucio Fontana": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Frank Stella": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Cy Twombly": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Josef Albers": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    }
+  },
+  "Pop Art": {
+    "Jasper Johns": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Robert Rauschenberg": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Claes Oldenburg": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Peter Phillips": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Wayne Thiebaud": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Andy Warhol": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Tom Wesselmann": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Ed Ruscha": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "James Rosenquist": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Richard Lindner": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Roy Lichtenstein": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Sigmar Polke": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "George Segal": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "David Hockney": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Lucian Freud": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Georg Baselitz": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Gerhard Richter": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Francis Bacon": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Fernando Botero": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Konrad Klapheck": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Chuck Close": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Louise Bourgeois": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Dieter Roth": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    }
+  },
+  "Minimal Art": {
+    "Dan Flavin": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Sol LeWitt": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Robert Ryman": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Eva Hess": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Carl Andre": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Donald Judd": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Richard Serra": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Joseph Beuys": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Brice Marden": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    }
+  },
+  "Arte Conceptual": {
+    "Joseph Kosuth": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Bruce Nauman": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Robert Smithson": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Alighiero Boetti": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Marcel Broodthaers": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "On Kawara": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Nam June Paik": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Gordon Matta-Clark": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Robert Morris": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Christo and Jeanne-Claude": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "James Turrell": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Walter De Maria": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    }
+  },
+  "Postmodernismo": {
+    "Cindy Sherman": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Richard Prince": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Julian Schnabel": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Jean-Michel Basquiat": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Eric Fischl": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Barbara Kruger": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Keith Haring": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Anselm Kiefer": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Mike Kelley": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Günther Förg": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Martin Kippenberger": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Jeff Koons": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Damien Hirst": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Robert Gober": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Paul McCarthy": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Albert Oehlen": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Christopher Wool": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Ai Weiwei": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Beatriz Milhazes": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Thomas Struth": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Peter Doig": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Neo Rauch": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Andreas Gursky": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    },
+    "Glenn Brown": {
+      "Nacimiento": {
+        "Año": "",
+        "Lugar": ""
+      },
+      "Muerte": {
+        "Año": "",
+        "Lugar": ""
+      }
+    }
+  }
+}
